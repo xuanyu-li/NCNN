@@ -20,4 +20,4 @@ geo_NCNN_table.py and GTE_x_NCNN_table.py
 
 The GCN model is implemented and tested on two dataset-GEO dataset and GTEx dataset with two python files:
 
-geo_gcn_table.py and 
+geo_gcn_table.py and GTE_x_gcn_table.py
