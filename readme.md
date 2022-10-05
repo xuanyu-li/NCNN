@@ -15,4 +15,8 @@ The GEO and GTEx data we used in our paper is collected by emailing (yil8@uci.ed
 #### Model
 The proposed method NCNN is implemented and tested on two dataset-GEO dataset and GTEx dataset with two python files:
 
-geo_NCNN_table.py  and 
+geo_NCNN_table.py  and GTE_x_NCNN_table.py
+
+
+The GCN model is implemented and tested on two dataset-GEO dataset and GTEx dataset with two python files:
+
