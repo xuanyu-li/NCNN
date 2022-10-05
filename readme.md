@@ -12,6 +12,11 @@ he original data files are not provided within this codebase, as some of them re
 ##### GEO and GTEx
 The GEO and GTEx data we used in our paper is collected by emailing (yil8@uci.edu). For those who want to have the data, please reach https://github.com/uci-cbcl/D-GEX for further information.
 
+##### Gene graph data
+The gene interaction graph data can be downloaded on https://string-db.org/cgi/download.pl?sessionId=qJO5wpaPqJC7&species_text=Homo+sapiens.
+
+
+
 #### Model
 The proposed method NCNN is implemented and tested on two dataset-GEO dataset and GTEx dataset with two python files:
 
