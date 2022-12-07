@@ -10,6 +10,26 @@ Pytorch-geometric
 The original data files are not provided within this codebase, as some of them require applying for access. Once you download all of them, please put them in this codebase.
 
 ##### GEO and GTEx
+The GEO and GTEx data we used in our paper is a preliminary version before their official publication, and is not publicly available. For those who are interested in the data, please email us (lixuanyu22@mails.ucas.ac.cn) with your basic information through an academic institute email address, and we will provide you the download link. The data you will download is the pre-processed data:
+
+###### GEO datasets
+bgedv2_X_tr_float64.npy
+bgedv2_X_va_float64.npy
+bgedv2_X_te_float64.npy
+bgedv2_Y_tr_float64.npy
+bgedv2_Y_va_float64.npy
+bgedv2_Y_te_float64.npy
+
+###### GTEx datasets
+
+GTEx_X_tr_float64.npy
+GTEx_X_va_float64.npy
+GTEx_X_te_float64.npy
+GTEx_Y_tr_float64.npy
+GTEx_Y_va_float64.npy
+GTEx_Y_te_float64.npy
+
+
 The GEO and GTEx data we used in our paper is collected by emailing (yil8@uci.edu). For those who want to have the data, please reach https://github.com/uci-cbcl/D-GEX for further information.
 
 ##### Gene graph data
