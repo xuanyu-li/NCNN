@@ -45,7 +45,7 @@ The GEO and GTEx data we used in our paper is collected by emailing (yil8@uci.ed
 
 ##### Gene graph data
 The gene interaction graph data can be downloaded on https://string-db.org/cgi/download.pl?sessionId=qJO5wpaPqJC7&species_text=Homo+sapiens.
-
+After downloading the file'9606.protein.links.detailed.v11.5.txt', please put it in this folder.
 
 
 #### Model
