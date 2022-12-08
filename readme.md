@@ -52,9 +52,9 @@ After downloading the file'9606.protein.links.detailed.v11.5.txt', please put it
 
 The file 'Homo_sapiens.GRCh38.95.gtf' can be downloaded from :
 
-    ftp://ftp.ensembl.org/pub/release-95/gtf/homo_sapiens/Homo_sapiens.GRCh38.95.gtf.gz
+ftp://ftp.ensembl.org/pub/release-95/gtf/homo_sapiens/Homo_sapiens.GRCh38.95.gtf.gz
 
-    Please put the downloaded file in datastore folder.
+Please put the downloaded file in datastore folder.
 
 #### Model
 The proposed method NCNN is implemented and tested on two dataset-GEO dataset and GTEx dataset with two python files:
