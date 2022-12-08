@@ -44,9 +44,17 @@ GTEx_Y_te_float64.npy
 The GEO and GTEx data we used in our paper is collected by emailing (yil8@uci.edu). For those who want to have the data, please reach https://github.com/uci-cbcl/D-GEX for further information.
 
 ##### Gene graph data
-The gene interaction graph data can be downloaded on https://string-db.org/cgi/download.pl?sessionId=qJO5wpaPqJC7&species_text=Homo+sapiens.
-After downloading the file'9606.protein.links.detailed.v11.5.txt', please put it in this folder.
+The gene interaction graph data can be downloaded form 
 
+https://string-db.org/cgi/download.pl?sessionId=qJO5wpaPqJC7&species_text=Homo+sapiens.
+
+After downloading the file'9606.protein.links.detailed.v11.5.txt', please put it in datastore folder.
+
+The file 'Homo_sapiens.GRCh38.95.gtf' can be downloaded from :
+
+    ftp://ftp.ensembl.org/pub/release-95/gtf/homo_sapiens/Homo_sapiens.GRCh38.95.gtf.gz
+
+    Please put the downloaded file in datastore folder.
 
 #### Model
 The proposed method NCNN is implemented and tested on two dataset-GEO dataset and GTEx dataset with two python files:
