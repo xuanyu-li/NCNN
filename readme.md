@@ -14,7 +14,31 @@ The GEO and GTEx data we used in our paper is a third-party data available at h
 
 bgedv2_QNORM.gctx and GTEx_RNASeq_RPKM_n2921x55993.gctx.
 
-Please put the downloaded file in the folder pre_preprocessing and preprocess the data according to the readme file in that folder. After preprocessing, you will have these files:
+Please put the downloaded file in the folder pre_preprocessing. 
+
+The preprocessing is done by running:
+
+1.gct2npy.py
+
+2.kmeans.py
+
+3.nodup_idx.py
+
+4.bgedv2.py
+
+5.bgedv2_reqnorm.py
+
+6.bgedv2_norm.py
+
+7.GTEx.py
+
+8.GTEx_reqnorm.py
+
+9.GTEx_norm.py
+
+in order.
+
+After preprocessing, you will have these files:
 
 ###### GEO datasets
 
@@ -59,7 +83,7 @@ ftp://ftp.ensembl.org/pub/release-95/gtf/homo_sapiens/Homo_sapiens.GRCh38.95.gtf
 
 Please put the downloaded file in datastore folder.
 
-run 
+Run the python file 
 #### Model
 The proposed method NCNN is implemented and tested on two dataset-GEO dataset and GTEx dataset with two python files:
 
