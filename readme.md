@@ -14,6 +14,8 @@ The GEO and GTEx data we used in our paper is a third-party data available at h
 
 bgedv2_QNORM.gctx and GTEx_RNASeq_RPKM_n2921x55993.gctx.
 
+Please put the downloaded file in the folder preprocessing
+
 ###### GEO datasets
 
 bgedv2_X_tr_float64.npy
@@ -41,6 +43,7 @@ GTEx_Y_tr_float64.npy
 GTEx_Y_va_float64.npy
 
 GTEx_Y_te_float64.npy
+
 
 
 The GEO and GTEx data we used in our paper is collected by emailing (yil8@uci.edu). For those who want to have the data, please reach https://github.com/uci-cbcl/D-GEX for further information.
