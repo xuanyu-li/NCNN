@@ -85,6 +85,8 @@ Please put the downloaded file in datastore folder.
 
 Run the python file make_map.py and myextract.py
 
+Put the extracted gene interaction graph file stringDB1thres137.pth under NCNN folder.
+
 #### Model
 The proposed method NCNN is implemented and tested on two dataset-GEO dataset and GTEx dataset with two python files:
 
