@@ -10,7 +10,9 @@ Pytorch-geometric
 The original data files are not provided within this codebase, as some of them require applying for access. Once you download all of them, please put them in this codebase.
 
 ##### GEO and GTEx
-The GEO and GTEx data we used in our paper is a preliminary version before their official publication, and is not publicly available. For those who are interested in the data, please email us (lixuanyu22@mails.ucas.ac.cn) with your basic information through an academic institute email address, and we will provide you the download link. The data you will download is the pre-processed data:
+The GEO and GTEx data we used in our paper is a third-party data available at https://cbcl.ics.uci.edu/public_data/D-GEX/. The authors had no special access privileges, and other researchers would be able to access this data in the same manner. The data you will download is:
+
+bgedv2_QNORM.gctx and GTEx_RNASeq_RPKM_n2921x55993.gctx.
 
 ###### GEO datasets
 
