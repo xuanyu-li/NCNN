@@ -14,7 +14,7 @@ The GEO and GTEx data we used in our paper is a third-party data available at h
 
 bgedv2_QNORM.gctx and GTEx_RNASeq_RPKM_n2921x55993.gctx.
 
-Please put the downloaded file in the folder preprocessing
+Please put the downloaded file in the folder pre_preprocessing and preprocess the data according to the readme file in that folder. After preprocessing, you will have these files:
 
 ###### GEO datasets
 
@@ -44,12 +44,10 @@ GTEx_Y_va_float64.npy
 
 GTEx_Y_te_float64.npy
 
-
-
-The GEO and GTEx data we used in our paper is collected by emailing (yil8@uci.edu). For those who want to have the data, please reach https://github.com/uci-cbcl/D-GEX for further information.
+Please put them in this folder.
 
 ##### Gene graph data
-The gene interaction graph data can be downloaded form 
+The gene interaction graph data can be downloaded from 
 
 https://string-db.org/cgi/download.pl?sessionId=qJO5wpaPqJC7&species_text=Homo+sapiens.
 
@@ -61,6 +59,7 @@ ftp://ftp.ensembl.org/pub/release-95/gtf/homo_sapiens/Homo_sapiens.GRCh38.95.gtf
 
 Please put the downloaded file in datastore folder.
 
+run 
 #### Model
 The proposed method NCNN is implemented and tested on two dataset-GEO dataset and GTEx dataset with two python files:
 
