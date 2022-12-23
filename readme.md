@@ -1,8 +1,8 @@
 ### Readme for NCNN
 #### Prerequisites
-Python 3.
+Python 3
 
-Pytorch 1.11
+Pytorch 1.8.0
 
 Pytorch-geometric
 
